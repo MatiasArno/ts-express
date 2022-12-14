@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "date": "15/09/2018",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Pretty scary flight, I am glad to be alive..."
+    },
+    {
+        "id": 2,
+        "date": "18/06/2018",
+        "weather": "stormy",
+        "visibility": "poor",
+        "comment": "Everything went perfect."
+    },
+    {
+        "id": 3,
+        "date": "11/11/2011",
+        "weather": "windy",
+        "visibility": "ok",
+        "comment": "The wind affected the plane's direction."
+    },
+    {
+        "id": 4,
+        "date": "11/09/2001",
+        "weather": "sunny",
+        "visibility": "great",
+        "comment": "It was the perfect day to go for a flight!"
+    },
+    {
+        "id": 5,
+        "date": "09/09/2009",
+        "weather": "cloudy",
+        "visibility": "poor",
+        "comment": "The clouds were very annoying..."
+    },
+    {
+        "id": 6,
+        "date": "27/03/2025",
+        "weather": "sunny",
+        "visibility": "ok",
+        "comment": "It was a very good day for flying, but it could be better."
+    }
+]
